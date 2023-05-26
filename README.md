@@ -1,5 +1,5 @@
 
-<h2>Hi, I'm Tetiana! <a href="https://github.com/TaniaZaslon">Software Engineer</a>, <a href="https://www.linkedin.com/in/tetiana-zaslon-3132547b/">Frontend Developer</a></h2>
+<h2>Hi, I'm Tetiana! <a href="https://github.com/TaniaZaslon">Software Engineer</a>, <a href="https://www.linkedin.com/in/tetiana-zaslon-3132547b/">Frontend Developer</a>.</h2>
 
 
 <h3>👨‍💻 Software Development Projects:</h3>
