@@ -22,7 +22,7 @@
 -->
 <h3>📲 Connect with me:</h3>
 
-[<img align="left" alt="TetianaZaslon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="TetianaZaslon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
 
 [linkedin]: https://www.linkedin.com/in/tetiana-zaslon-3132547b/
 
